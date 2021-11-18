@@ -2,7 +2,7 @@
 
 The goal is to collect text data that celebrity said.
 
-##Data structure
+## Data structure
 /Data/twitter contains text files with phrases
 /Data/youtube contains:
                       /source with audio and subtitles in txt, mp4, wav files downloaded from Youtube;
@@ -16,5 +16,5 @@ The goal is to collect text data that celebrity said.
                                                     txt folder with text files of conversation
                                                     
 
-##Tutorials
+## Tutorials
 General pipeline with all steps: https://github.com/katianosikova/speaker-text-identification/blob/main/Pipeline.ipynb
