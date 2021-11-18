@@ -1,6 +1,6 @@
 # Speaker text identification
 
-The goal is to collect text data that celebrity said.
+The goal is to collect and prepare dataset of text sentences that celebrity said.
 
 ## Data structure
 /Data/twitter contains text files with phrases
@@ -19,4 +19,4 @@ The goal is to collect text data that celebrity said.
                                                     
 
 ## Tutorials
-General pipeline with all steps: https://github.com/katianosikova/speaker-text-identification/blob/main/Pipeline.ipynb
+General pipeline included all steps: https://github.com/katianosikova/speaker-text-identification/blob/main/Pipeline.ipynb
