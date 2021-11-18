@@ -8,13 +8,13 @@ The goal is to collect text data that celebrity said.
 /Data/youtube contains:
 
                       /source with audio and subtitles in txt, mp4, wav files downloaded from Youtube;
-                              name of each file is id Youtube video
-                      /crop with audio chunks in video folders
-                      /rttm with diarization results for chunks
-                      /dialogues with conversations; 
-                                 in each video folders:
-                                                    speaker_labels.json: {'speaker_name': 'speaker_label'}
-                                                    dialog_labels.txt: 'speaker_label' 'text_file_name'
+                              name of each file is id Youtube video;
+                      /crop with audio chunks in video folders;
+                      /rttm with diarization results for chunks;
+                      /dialogues with conversations;
+                                 in each video folder:
+                                                    speaker_labels.json: {'speaker_name': 'speaker_label'};
+                                                    dialog_labels.txt: 'speaker_label' 'text_file_name';
                                                     txt folder with text files of conversation
                                                     
 
