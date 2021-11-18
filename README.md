@@ -18,5 +18,17 @@ The goal is to collect and prepare dataset of text sentences that celebrity said
                                                     txt folder with text files of conversation
                                                     
 
+## Installation
+Install libraries using:
+```
+pip install -r requirements.txt
+```
+
+Download and install chromedriver for selenium:
+https://selenium-python.com/install-chromedriver-chrome
+
+
 ## Tutorial
+Config file: https://github.com/katianosikova/speaker-text-identification/blob/main/config.py
+
 General pipeline included all steps: https://github.com/katianosikova/speaker-text-identification/blob/main/Pipeline.ipynb
