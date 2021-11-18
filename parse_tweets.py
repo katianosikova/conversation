@@ -16,7 +16,6 @@ SCROLL_PAUSE_TIME = 8
 
 class Twitter:
     def __init__(self, url):
-        path_chrome = './chromedriver'
         self.driver = webdriver.Chrome(path_chrome)
 
         print('Go to {}'.format(url))

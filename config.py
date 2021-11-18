@@ -1,3 +1,8 @@
+'''Path to chromedriver'''
+
+path_chrome = './chromedriver'
+
+
 '''Path to data directories'''
 
 data_dir = './Data/'
