@@ -18,5 +18,5 @@ The goal is to collect and prepare dataset of text sentences that celebrity said
                                                     txt folder with text files of conversation
                                                     
 
-## Tutorials
+## Tutorial
 General pipeline included all steps: https://github.com/katianosikova/speaker-text-identification/blob/main/Pipeline.ipynb
