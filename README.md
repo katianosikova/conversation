@@ -5,7 +5,7 @@ The goal is to collect and prepare dataset of text sentences that celebrity said
 ## Data structure
 /Data/twitter contains text files with phrases
 
-/Data/youtube contains:
+/Data/youtube contains conversations:
 ```
 /source with audio and subtitles in txt, mp4, wav files downloaded from Youtube;
         name of each file is id Youtube video;
