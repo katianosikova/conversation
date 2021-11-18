@@ -1,0 +1,3231 @@
+1
+00:00:00,569 --> 00:00:02,707
+(pop music)
+
+2
+00:00:02,707 --> 00:00:05,290
+(crowd cheers)
+
+3
+00:00:13,670 --> 00:00:14,783
+- Hello, everyone.
+
+4
+00:00:15,920 --> 00:00:17,080
+Thanks for coming out.
+
+5
+00:00:17,080 --> 00:00:22,080
+I think everyone knows who my guest is (giggling)
+
+6
+00:00:22,810 --> 00:00:25,460
+and we also have Steven Smith, lead designer
+
+7
+00:00:25,460 --> 00:00:28,100
+of Yeezy who, unless you're a sneaker head,
+
+8
+00:00:28,100 --> 00:00:30,990
+you might not know that well.
+
+9
+00:00:30,990 --> 00:00:34,140
+So, we should probably all realize now, Yeezy is
+
+10
+00:00:34,140 --> 00:00:35,500
+a multibillion dollar brand.
+
+11
+00:00:35,500 --> 00:00:37,240
+It did something like, 1.5 billion dollars
+
+12
+00:00:37,240 --> 00:00:38,770
+in sales last year.
+
+13
+00:00:38,770 --> 00:00:41,640
+It's wholly owned by Kanye West,
+
+14
+00:00:41,640 --> 00:00:44,220
+and the two of them, Kanye
+
+15
+00:00:44,220 --> 00:00:47,580
+and Steven, came together a few years ago.
+
+16
+00:00:47,580 --> 00:00:50,800
+Met up and sort of lead Yeezy Design now,
+
+17
+00:00:50,800 --> 00:00:53,610
+and what I wanna do today is have a conversation about that.
+
+18
+00:00:53,610 --> 00:00:56,140
+No one's really dug into the nuts and bolts
+
+19
+00:00:56,140 --> 00:00:57,690
+of Yeezy Design, yet,
+
+20
+00:00:57,690 --> 00:01:01,723
+and so, let's start with, how did you find each other?
+
+21
+00:01:04,230 --> 00:01:05,500
+- Oh, you know, I had...
+
+22
+00:01:06,370 --> 00:01:08,170
+I was working for another company
+
+23
+00:01:08,170 --> 00:01:12,210
+and I was head of innovation, and it wasn't innovative
+
+24
+00:01:12,210 --> 00:01:14,140
+and I walked away one day.
+
+25
+00:01:14,140 --> 00:01:15,556
+Which people are like,
+
+26
+00:01:15,556 --> 00:01:17,730
+(Kanye laughs)
+
+27
+00:01:17,730 --> 00:01:18,950
+you just left your job?
+
+28
+00:01:18,950 --> 00:01:22,420
+I'm like, yeah, it just wasn't it, and,
+
+29
+00:01:22,420 --> 00:01:25,830
+So for two weeks my wife's like, "What are you gonna do?"
+
+30
+00:01:25,830 --> 00:01:27,840
+I'm like, "I don't know."
+
+31
+00:01:27,840 --> 00:01:28,930
+But I wasn't doing that, anymore.
+
+32
+00:01:28,930 --> 00:01:32,723
+And then one night, the phone rang, and it was Ye,
+
+33
+00:01:35,468 --> 00:01:36,440
+and it started from there.
+
+34
+00:01:36,440 --> 00:01:38,170
+I looked at it as a blessing.
+
+35
+00:01:38,170 --> 00:01:41,090
+You know, I was in a kind of a dark place,
+
+36
+00:01:41,090 --> 00:01:44,460
+and this hand reached out and pulled me to the light,
+
+37
+00:01:44,460 --> 00:01:47,520
+and pulled me from the depths to the top,
+
+38
+00:01:47,520 --> 00:01:51,630
+and it's been an amazing experience ever since.
+
+39
+00:01:51,630 --> 00:01:53,100
+I was just saying to Ye this morning.
+
+40
+00:01:53,100 --> 00:01:54,290
+It's like, the last time I was
+
+41
+00:01:54,290 --> 00:01:57,550
+in New York was the time you flew me out to meet you
+
+42
+00:01:57,550 --> 00:01:58,770
+in person the first time.
+
+43
+00:01:58,770 --> 00:02:02,130
+So, it's just been amazing.
+
+44
+00:02:02,130 --> 00:02:04,590
+- If I had known that you had just left your job,
+
+45
+00:02:04,590 --> 00:02:05,750
+I wouldn't have spent two hours tryin'
+
+46
+00:02:05,750 --> 00:02:08,228
+to talk you into coming to Yeezy.
+
+47
+00:02:08,228 --> 00:02:10,910
+(laughter)
+
+48
+00:02:10,910 --> 00:02:12,330
+- I mean it's funny.
+
+49
+00:02:12,330 --> 00:02:15,670
+Steven, if you look through his portfolio, it's just,
+
+50
+00:02:15,670 --> 00:02:17,240
+it's staggering.
+
+51
+00:02:17,240 --> 00:02:21,260
+New Balance created some of what you might consider
+
+52
+00:02:21,260 --> 00:02:23,350
+the quintessential New Balance shoes.
+
+53
+00:02:23,350 --> 00:02:24,850
+The dad shoe.
+
+54
+00:02:24,850 --> 00:02:26,440
+At Reebok, they created this--
+
+55
+00:02:26,440 --> 00:02:29,072
+- They call him the dad of the dad shoes.
+
+56
+00:02:29,072 --> 00:02:31,910
+(laughter)
+
+57
+00:02:31,910 --> 00:02:35,930
+- At Reebok, created something totally just different,
+
+58
+00:02:35,930 --> 00:02:39,160
+and that looks like the anime-inspired film
+
+59
+00:02:39,160 --> 00:02:43,260
+that you actually inflate with an external inflator.
+
+60
+00:02:43,260 --> 00:02:46,250
+Still sold today as many designs are,
+
+61
+00:02:46,250 --> 00:02:48,083
+and now, and now Yeezy.
+
+62
+00:02:49,869 --> 00:02:54,090
+Talk to me about the first design you did together
+
+63
+00:02:54,090 --> 00:02:55,490
+or how that process started.
+
+64
+00:02:57,600 --> 00:02:59,190
+- You started going through all
+
+65
+00:02:59,190 --> 00:03:03,370
+of your archives and sketches and pullin' out...
+
+66
+00:03:04,670 --> 00:03:07,420
+I remember these pictures of, it's like the Tupperware.
+
+67
+00:03:09,140 --> 00:03:10,770
+- The bins of all my stuff.
+
+68
+00:03:10,770 --> 00:03:13,040
+- The bins of all those ideas,
+
+69
+00:03:13,040 --> 00:03:17,360
+and it was a sketch with a sole with those circles on it.
+
+70
+00:03:17,360 --> 00:03:20,263
+Now signature to the 700,
+
+71
+00:03:21,170 --> 00:03:23,300
+and you know it was...
+
+72
+00:03:23,300 --> 00:03:24,910
+- I remember you said
+
+73
+00:03:24,910 --> 00:03:27,450
+to me, like, "Did they ever make this?"
+
+74
+00:03:27,450 --> 00:03:28,350
+I'm like, "No."
+
+75
+00:03:28,350 --> 00:03:30,557
+He goes, "What the hell is wrong with them?
+
+76
+00:03:30,557 --> 00:03:32,587
+"All this stuff is amazing.
+
+77
+00:03:32,587 --> 00:03:34,190
+"Let's make all the things you've always wanted
+
+78
+00:03:34,190 --> 00:03:36,170
+to make that they were too stupid to make."
+
+79
+00:03:36,170 --> 00:03:38,510
+I'm like, "Let's go!"
+
+80
+00:03:38,510 --> 00:03:41,241
+(laughter)
+
+81
+00:03:41,241 --> 00:03:44,300
+And, the final design, it was Ye, myself,
+
+82
+00:03:44,300 --> 00:03:47,360
+and a young Chinese kid, Ding,
+
+83
+00:03:47,360 --> 00:03:50,860
+and for 48 hours straight, I'll never forget it.
+
+84
+00:03:50,860 --> 00:03:53,455
+We passed sketches and tests--
+
+85
+00:03:53,455 --> 00:03:54,730
+- And people are now saying Ding's name
+
+86
+00:03:54,730 --> 00:03:56,733
+to the entire shoe industry.
+
+87
+00:03:56,733 --> 00:03:57,610
+(laughter)
+
+88
+00:03:57,610 --> 00:03:58,443
+- It's a--
+
+89
+00:03:58,443 --> 00:03:59,343
+He can get all the calls.
+
+90
+00:04:01,283 --> 00:04:03,430
+- And so, 48 hours straight, he
+
+91
+00:04:03,430 --> 00:04:07,910
+and I texted, emailed, whatever, sketches back and forth,
+
+92
+00:04:07,910 --> 00:04:09,100
+and they were photoshopped and I would redraw it
+
+93
+00:04:09,100 --> 00:04:10,660
+and send it back to him.
+
+94
+00:04:10,660 --> 00:04:13,620
+We'd take this part and put that part out and mix it up,
+
+95
+00:04:13,620 --> 00:04:16,430
+and it was like nothing I had ever done before,
+
+96
+00:04:16,430 --> 00:04:20,603
+and it was just mind-blowing and exhausting.
+
+97
+00:04:21,907 --> 00:04:24,387
+And finally I told Ye, "Dude, it's two o'clock
+
+98
+00:04:24,387 --> 00:04:25,257
+"in the morning, and I'm old.
+
+99
+00:04:25,257 --> 00:04:26,650
+"I gotta go to bed."
+
+100
+00:04:26,650 --> 00:04:28,010
+(laughter)
+
+101
+00:04:28,010 --> 00:04:30,020
+And out of it came that last one to me
+
+102
+00:04:31,251 --> 00:04:34,860
+and after 48 hours, boom, this thing came out, and it was
+
+103
+00:04:34,860 --> 00:04:38,490
+an amazing experience, like nothing I had ever done before,
+
+104
+00:04:38,490 --> 00:04:41,747
+and I'm like, "Yeah, this is cool."
+
+105
+00:04:41,747 --> 00:04:43,650
+- And that's that shoe you're wearing right now.
+
+106
+00:04:43,650 --> 00:04:44,483
+- Yeah.
+
+107
+00:04:46,260 --> 00:04:49,120
+And when it dropped, I mean the thing sold out
+
+108
+00:04:49,120 --> 00:04:51,970
+in six and a half minutes, which was incredible.
+
+109
+00:04:51,970 --> 00:04:56,483
+I mean, who wouldn't wanna be part of that magic, you know?
+
+110
+00:04:57,499 --> 00:04:59,332
+And it's continued ever since.
+
+111
+00:04:59,332 --> 00:05:02,230
+- And we were, before the movement, the resurgence
+
+112
+00:05:02,230 --> 00:05:03,430
+of the dad craze,
+
+113
+00:05:03,430 --> 00:05:08,430
+and we, there was a photograph of me wearing the shoe.
+
+114
+00:05:09,050 --> 00:05:11,490
+Really big version of the shoe that we showed
+
+115
+00:05:11,490 --> 00:05:14,250
+in the season five fashion show,
+
+116
+00:05:14,250 --> 00:05:16,130
+and this paparazzi is great sometimes,
+
+117
+00:05:16,130 --> 00:05:19,080
+'cause they caught me wearing the shoe a week
+
+118
+00:05:19,080 --> 00:05:20,330
+before the Balenciaga show
+
+119
+00:05:20,330 --> 00:05:21,820
+that had the Triple S's in it,
+
+120
+00:05:21,820 --> 00:05:25,240
+and it's often like, me and Demna, the head designer
+
+121
+00:05:25,240 --> 00:05:27,960
+of Balenciaga, have a similar spirit,
+
+122
+00:05:27,960 --> 00:05:31,270
+and it's who's gonna get to the idea
+
+123
+00:05:31,270 --> 00:05:34,270
+and bring it to the world, beforehand?
+
+124
+00:05:34,270 --> 00:05:37,420
+If you remember, there was a paparazzi campaign
+
+125
+00:05:37,420 --> 00:05:42,420
+that I dress every girl up to look like my wife
+
+126
+00:05:42,660 --> 00:05:46,520
+in the campaign and then Balenciaga was working
+
+127
+00:05:46,520 --> 00:05:48,070
+on it at the same time,
+
+128
+00:05:48,070 --> 00:05:51,140
+and their campaign came out like two weeks later,
+
+129
+00:05:51,140 --> 00:05:54,429
+and it was just, the worst shame to the company
+
+130
+00:05:54,429 --> 00:05:55,604
+that they had.
+
+131
+00:05:55,604 --> 00:05:56,830
+(laughter)
+
+132
+00:05:56,830 --> 00:05:57,980
+That they had got get there afterwards,
+
+133
+00:05:57,980 --> 00:05:59,450
+and then there's stuff one to one,
+
+134
+00:05:59,450 --> 00:06:01,190
+at the last Balenciaga show
+
+135
+00:06:01,190 --> 00:06:03,740
+where I can show you one to one stuff in our office.
+
+136
+00:06:03,740 --> 00:06:06,567
+I'm like, "Who's got cameras in our office?
+
+137
+00:06:06,567 --> 00:06:07,750
+"Who's seeing what we're doin?"
+
+138
+00:06:07,750 --> 00:06:08,978
+So--
+
+139
+00:06:08,978 --> 00:06:10,322
+- Not me, no.
+
+140
+00:06:10,322 --> 00:06:15,322
+- Yeah, so, that process, it's a balance between
+
+141
+00:06:17,330 --> 00:06:20,750
+really being diligent about making the best product
+
+142
+00:06:20,750 --> 00:06:22,890
+because we don't put a timeline on things,
+
+143
+00:06:22,890 --> 00:06:27,870
+but the idea of competition
+
+144
+00:06:27,870 --> 00:06:32,530
+that's out there helps present a timeline for people,
+
+145
+00:06:32,530 --> 00:06:34,750
+and it makes things be better
+
+146
+00:06:34,750 --> 00:06:39,750
+and forces us to as creatives to bring things
+
+147
+00:06:41,770 --> 00:06:46,770
+to market because Yeezy is the Apple of apparel.
+
+148
+00:06:47,050 --> 00:06:50,020
+There hasn't been an Apple of apparel.
+
+149
+00:06:50,020 --> 00:06:51,885
+There hasn't been that thing.
+
+150
+00:06:51,885 --> 00:06:54,200
+It's like you want, you wanna think.
+
+151
+00:06:54,200 --> 00:06:55,460
+You see like a friend come in
+
+152
+00:06:55,460 --> 00:06:59,007
+with a cool UNIQLO jacket and you all be like,
+
+153
+00:06:59,007 --> 00:07:00,717
+"Wow, this is like the Apple of apparel.
+
+154
+00:07:00,717 --> 00:07:02,210
+"You got an UNIQLO."
+
+155
+00:07:02,210 --> 00:07:04,700
+And it's like these weird dresses all over the place
+
+156
+00:07:04,700 --> 00:07:07,270
+and it's just like, this is not the way I picture it,
+
+157
+00:07:07,270 --> 00:07:10,050
+or you know, I grew up, I worked at the Gap.
+
+158
+00:07:10,050 --> 00:07:11,780
+When I was 16 I got fired for shoplifting
+
+159
+00:07:11,780 --> 00:07:16,780
+and the, I couldn't afford a Abercrombie.
+
+160
+00:07:16,880 --> 00:07:19,520
+I could afford Polo because it was at Marshalls
+
+161
+00:07:19,520 --> 00:07:21,438
+and TJ Maxx 'cause (Steven laughs)
+
+162
+00:07:21,438 --> 00:07:22,271
+it was cheaper.
+
+163
+00:07:22,271 --> 00:07:25,130
+But that way that Mickley Drexler made the Gap feel
+
+164
+00:07:25,130 --> 00:07:27,200
+and I'm still, and I'm really happy about
+
+165
+00:07:27,200 --> 00:07:30,730
+this founder Alberdie said about retail and the experience.
+
+166
+00:07:30,730 --> 00:07:33,080
+You know, me and wife, we went
+
+167
+00:07:33,080 --> 00:07:34,930
+to Dover Street last time we were in New York,
+
+168
+00:07:34,930 --> 00:07:37,505
+and we went to Jacob the Jeweler,
+
+169
+00:07:37,505 --> 00:07:39,850
+and it was just such a beautiful experience
+
+170
+00:07:39,850 --> 00:07:42,260
+to be able to go back into these physical spaces
+
+171
+00:07:42,260 --> 00:07:45,410
+in this world, it's so like D-to-C and online
+
+172
+00:07:45,410 --> 00:07:46,900
+and it's just therapeutic just
+
+173
+00:07:46,900 --> 00:07:50,250
+to see the way someone else layin' out the clothes
+
+174
+00:07:50,250 --> 00:07:52,600
+and it's just like, all these members
+
+175
+00:07:52,600 --> 00:07:55,330
+of the industry are so important.
+
+176
+00:07:55,330 --> 00:07:58,530
+The buyers, and the shoppers, and the sales clerk.
+
+177
+00:07:58,530 --> 00:07:59,410
+I was a sales clerk.
+
+178
+00:07:59,410 --> 00:08:01,890
+I was folding t-shirts at the Gap.
+
+179
+00:08:01,890 --> 00:08:03,990
+At one point, it's the entire experience
+
+180
+00:08:03,990 --> 00:08:08,990
+from the Steven Smith sketch to someone linin' up
+
+181
+00:08:09,290 --> 00:08:10,360
+for the Yeezy.
+
+182
+00:08:10,360 --> 00:08:11,193
+- It's a, he's a...
+
+183
+00:08:11,193 --> 00:08:12,124
+- Yeah.
+
+184
+00:08:12,124 --> 00:08:14,480
+You know, I mean, and you think about what we do,
+
+185
+00:08:14,480 --> 00:08:16,300
+and you think about you did with Gap.
+
+186
+00:08:16,300 --> 00:08:18,430
+It's like we create objects of desire.
+
+187
+00:08:18,430 --> 00:08:21,030
+I mean, if we don't love it, how could we expect--
+
+188
+00:08:21,030 --> 00:08:23,245
+- No, I folded objects of desire.
+
+189
+00:08:23,245 --> 00:08:26,030
+(laughter)
+
+190
+00:08:26,030 --> 00:08:29,550
+- You are prolific designers together, though.
+
+191
+00:08:29,550 --> 00:08:34,160
+You go through so much and how does working at Yeezy
+
+192
+00:08:34,160 --> 00:08:39,160
+compare to Reebok, or the time you spent at New Balance.
+
+193
+00:08:39,660 --> 00:08:40,740
+- You know what?
+
+194
+00:08:40,740 --> 00:08:44,333
+The thing I love about Kanye is the rules are gone.
+
+195
+00:08:45,350 --> 00:08:49,650
+We just, everything you've ever done, it's just been
+
+196
+00:08:49,650 --> 00:08:51,440
+smashed to pieces,
+
+197
+00:08:51,440 --> 00:08:54,930
+and we think about it completely different,
+
+198
+00:08:54,930 --> 00:08:59,930
+and it's just, it's liberating creativity
+
+199
+00:09:01,040 --> 00:09:03,160
+like I've never experienced before.
+
+200
+00:09:03,160 --> 00:09:05,200
+When I worked at Nike
+
+201
+00:09:05,200 --> 00:09:07,680
+or any other big corporations, you're a cog
+
+202
+00:09:07,680 --> 00:09:10,060
+behind a desk and it's preprogrammed
+
+203
+00:09:10,060 --> 00:09:12,250
+with, oh, we're gonna have a focus group.
+
+204
+00:09:12,250 --> 00:09:13,140
+Well get a brief.
+
+205
+00:09:13,140 --> 00:09:14,850
+We'll pitch it to management.
+
+206
+00:09:14,850 --> 00:09:17,280
+10 people will decided what we're gonna do from there
+
+207
+00:09:17,280 --> 00:09:18,657
+and then you'll do four more sketches
+
+208
+00:09:18,657 --> 00:09:21,600
+and then 10 other people will decide on that,
+
+209
+00:09:21,600 --> 00:09:24,550
+And then we'll show it around
+
+210
+00:09:24,550 --> 00:09:27,690
+and get people's feel for it, and it just takes forever.
+
+211
+00:09:27,690 --> 00:09:30,220
+And with Ye it's just like, go!
+
+212
+00:09:30,220 --> 00:09:34,720
+And we create, and it's like nothing else.
+
+213
+00:09:34,720 --> 00:09:36,800
+you can't describe it till you're in it.
+
+214
+00:09:36,800 --> 00:09:38,470
+It's, magic--
+
+215
+00:09:38,470 --> 00:09:40,780
+- [Interviewer] What I hear a lot talking to designers is,
+
+216
+00:09:40,780 --> 00:09:44,900
+design's about constraints, and so I hear sort
+
+217
+00:09:44,900 --> 00:09:45,880
+of the opposite end of it,
+
+218
+00:09:45,880 --> 00:09:49,010
+or am I misinterpreting how you work in terms
+
+219
+00:09:49,010 --> 00:09:50,030
+of removing rules?
+
+220
+00:09:50,030 --> 00:09:50,863
+- My favorite-- - He'll,
+
+221
+00:09:50,863 --> 00:09:52,010
+He'll put some constraints on us.
+
+222
+00:09:52,010 --> 00:09:53,970
+- What's some of those constraints?
+
+223
+00:09:53,970 --> 00:09:55,380
+- No laces.
+
+224
+00:09:55,380 --> 00:09:57,528
+- That's our new constraint.
+
+225
+00:09:57,528 --> 00:09:58,361
+I don't need - No stitching.
+
+226
+00:09:58,361 --> 00:10:00,300
+Sunday service, having to tie my shoes seven times
+
+227
+00:10:00,300 --> 00:10:01,631
+in the middle of service.
+
+228
+00:10:01,631 --> 00:10:03,160
+(Steven giggles)
+
+229
+00:10:03,160 --> 00:10:06,690
+- But you know, it's relatable problems, we're solving.
+
+230
+00:10:06,690 --> 00:10:08,850
+- It's Yeezy, make life easy.
+
+231
+00:10:08,850 --> 00:10:10,477
+We gotta put all the,
+
+232
+00:10:10,477 --> 00:10:11,893
+(laughter)
+
+233
+00:10:11,893 --> 00:10:15,010
+all the work in, so you guys don't have to put the work in.
+
+234
+00:10:15,010 --> 00:10:18,060
+Even as we think about the way colors work together.
+
+235
+00:10:18,060 --> 00:10:23,060
+The way, I was sittin', my wife this morning takin' a bath
+
+236
+00:10:23,130 --> 00:10:26,950
+and I'm literally reading to her the psychology of colors.
+
+237
+00:10:26,950 --> 00:10:28,840
+This is true, right?
+
+238
+00:10:28,840 --> 00:10:30,510
+She's trying to just take a bath.
+
+239
+00:10:30,510 --> 00:10:31,430
+I'll read you something.
+
+240
+00:10:31,430 --> 00:10:32,940
+This is what she has to hear
+
+241
+00:10:33,949 --> 00:10:35,290
+(laughter)
+
+242
+00:10:35,290 --> 00:10:36,436
+in the morning.
+
+243
+00:10:36,436 --> 00:10:39,360
+It kind of reminds me of, what did that Wes Anderson,
+
+244
+00:10:39,360 --> 00:10:41,490
+the Grand Budapest Hotel?
+
+245
+00:10:41,490 --> 00:10:43,167
+The way the guy would just read poetry to people
+
+246
+00:10:43,167 --> 00:10:44,700
+and they were like, people were fallin' asleep
+
+247
+00:10:44,700 --> 00:10:45,533
+while he's talkin'.
+
+248
+00:10:45,533 --> 00:10:47,960
+- It's just not you, Kim, it's all of us.
+
+249
+00:10:47,960 --> 00:10:50,187
+- So it says, "Blue, safety.
+
+250
+00:10:50,187 --> 00:10:53,887
+"Symbolism, no immediate hazard psychological effects.
+
+251
+00:10:53,887 --> 00:10:56,450
+"Blue is considered beneficial
+
+252
+00:10:56,450 --> 00:10:59,640
+to the mind and body, slows humans' metabolism,
+
+253
+00:10:59,640 --> 00:11:01,440
+releases calming hormones.
+
+254
+00:11:01,440 --> 00:11:04,455
+I'm just, this is my wife, "I just wanna take a bath."
+
+255
+00:11:04,455 --> 00:11:06,303
+(laughter)
+
+256
+00:11:06,303 --> 00:11:07,717
+- He said, "No, you need blue."
+
+257
+00:11:11,310 --> 00:11:15,240
+A lot of, my take on fashion design has always been
+
+258
+00:11:15,240 --> 00:11:16,630
+that it leans more toward art,
+
+259
+00:11:16,630 --> 00:11:18,320
+that it's art you wear,
+
+260
+00:11:18,320 --> 00:11:21,000
+that sometimes it looks radical, it looks uncomfortable,
+
+261
+00:11:21,000 --> 00:11:25,200
+and then later it feels different, accepted and great.
+
+262
+00:11:25,200 --> 00:11:29,350
+And then I feel like the design with a capital D tends
+
+263
+00:11:29,350 --> 00:11:31,390
+to be about solving problems, right?
+
+264
+00:11:31,390 --> 00:11:34,320
+Recognizing that something has a better user interface.
+
+265
+00:11:34,320 --> 00:11:36,450
+We've eaten with forks for thousands of years
+
+266
+00:11:36,450 --> 00:11:37,800
+because it's a good design.
+
+267
+00:11:39,210 --> 00:11:41,960
+Where do you see your work on the spectrum of that,
+
+268
+00:11:41,960 --> 00:11:44,130
+and do you see yourself going more into
+
+269
+00:11:44,130 --> 00:11:46,440
+that design with a capital D with these?
+
+270
+00:11:46,440 --> 00:11:48,727
+- Absolutely, all finger foods.
+
+271
+00:11:48,727 --> 00:11:50,130
+(laughter)
+
+272
+00:11:50,130 --> 00:11:52,020
+No more forks, forks are dangerous.
+
+273
+00:11:52,020 --> 00:11:54,040
+- [Interviewer] Toothpicks.
+
+274
+00:11:54,040 --> 00:11:54,950
+- I don't know anything about toothpicks,
+
+275
+00:11:54,950 --> 00:11:58,227
+but yeah, it's you know, da Vinci, a lot of people,
+
+276
+00:11:58,227 --> 00:12:02,360
+I'm 42 years old, a lot of other greatest artists
+
+277
+00:12:02,360 --> 00:12:06,630
+of all time, at age 40, say, "I'm tired of doing
+
+278
+00:12:06,630 --> 00:12:07,760
+what everybody wants me to do."
+
+279
+00:12:07,760 --> 00:12:11,187
+And da Vinci's like, "I'm tired of painting these portraits
+
+280
+00:12:11,187 --> 00:12:16,143
+"for the rich elite women and I wanna go and do bridges."
+
+281
+00:12:17,820 --> 00:12:19,530
+We have to add science behind it now.
+
+282
+00:12:19,530 --> 00:12:22,100
+I think Yeezy...
+
+283
+00:12:22,100 --> 00:12:25,050
+I definitely think there was a breakthrough
+
+284
+00:12:25,050 --> 00:12:27,015
+in what we did in the 350s
+
+285
+00:12:27,015 --> 00:12:29,510
+and the 700s and, but still there's things.
+
+286
+00:12:29,510 --> 00:12:31,238
+We weren't lookin' at color palettes.
+
+287
+00:12:31,238 --> 00:12:34,290
+It's kind of been more of an opinion
+
+288
+00:12:34,290 --> 00:12:36,770
+on something than it was a complete innovation.
+
+289
+00:12:36,770 --> 00:12:40,010
+So now, today, that's what me and Steven are here
+
+290
+00:12:40,010 --> 00:12:40,843
+to talk about.
+
+291
+00:12:40,843 --> 00:12:43,150
+It's how Yeezy is goin' into innovation
+
+292
+00:12:43,150 --> 00:12:47,850
+and we moved the headquarters to Cody, Wyoming.
+
+293
+00:12:47,850 --> 00:12:51,010
+We have a four thousand-acre ranch,
+
+294
+00:12:51,010 --> 00:12:52,620
+and a couple other properties out there.
+
+295
+00:12:52,620 --> 00:12:56,020
+We're gonna be farming and going seed to sow,
+
+296
+00:12:56,020 --> 00:12:59,930
+and have our own cotton hydroponic farm,
+
+297
+00:12:59,930 --> 00:13:02,090
+and our own hemp farm, and our own weed farm
+
+298
+00:13:02,090 --> 00:13:04,580
+so we could see every element and getting into
+
+299
+00:13:06,380 --> 00:13:08,830
+how we could have less impact with the dyes
+
+300
+00:13:08,830 --> 00:13:13,830
+because our color is a big signature of the brand,
+
+301
+00:13:14,200 --> 00:13:17,900
+but also dyeing, is one of the main things
+
+302
+00:13:17,900 --> 00:13:20,460
+that's impacting the planet in the fashion industry.
+
+303
+00:13:20,460 --> 00:13:22,980
+So, just being responsible from A to Z
+
+304
+00:13:22,980 --> 00:13:24,580
+and what happens, even
+
+305
+00:13:24,580 --> 00:13:29,490
+as we're bringing, within the next two years, we are,
+
+306
+00:13:29,490 --> 00:13:32,070
+our goal is to bring the manufacturing back
+
+307
+00:13:32,070 --> 00:13:34,720
+to America, South America, North America.
+
+308
+00:13:34,720 --> 00:13:36,050
+Bring it back to State side, and also
+
+309
+00:13:36,050 --> 00:13:41,050
+to prevent, present jobs for people back here.
+
+310
+00:13:42,670 --> 00:13:47,390
+- And people thought Ye was blowing smoke two weeks ago
+
+311
+00:13:47,390 --> 00:13:50,267
+when he said that, "We're gonna manufacture Yeezy
+
+312
+00:13:50,267 --> 00:13:51,369
+"in the U.S."
+
+313
+00:13:51,369 --> 00:13:53,170
+And people are like, "Come on."
+
+314
+00:13:53,170 --> 00:13:56,230
+So, I got off the plane last night
+
+315
+00:13:57,875 --> 00:14:00,690
+and these are the future of Yeezy.
+
+316
+00:14:00,690 --> 00:14:05,690
+These we're just made in Atlanta yesterday
+
+317
+00:14:05,930 --> 00:14:09,540
+in the U.S. at pre-production
+
+318
+00:14:09,540 --> 00:14:12,210
+and we're gonna start manufacturing in the U.S.
+
+319
+00:14:12,210 --> 00:14:14,080
+We're gonna bring jobs back here
+
+320
+00:14:14,080 --> 00:14:16,030
+and we're gonna make Yeezy's an America,
+
+321
+00:14:16,030 --> 00:14:19,330
+and so this is revolution.
+
+322
+00:14:19,330 --> 00:14:20,289
+This is--
+
+323
+00:14:20,289 --> 00:14:21,130
+- [Interviewer] This is a hundred percent made here?
+
+324
+00:14:21,130 --> 00:14:22,530
+- Yes.
+
+325
+00:14:22,530 --> 00:14:24,460
+- [Interviewer] What's it made of?
+
+326
+00:14:24,460 --> 00:14:27,260
+- This particular one is a hybrid of EVA
+
+327
+00:14:27,260 --> 00:14:29,840
+but it also has another foam
+
+328
+00:14:30,920 --> 00:14:33,950
+that's blended into it that's from algae.
+
+329
+00:14:33,950 --> 00:14:35,860
+It's harvested from ponds,
+
+330
+00:14:35,860 --> 00:14:40,860
+so its eco concerns are intersecting with what we do.
+
+331
+00:14:41,892 --> 00:14:43,210
+I mean, this is just the beginning
+
+332
+00:14:43,210 --> 00:14:45,790
+of the future that Kanye envisioned for us
+
+333
+00:14:45,790 --> 00:14:49,200
+to start working on in creating and challenged us to
+
+334
+00:14:49,200 --> 00:14:51,410
+'cause it's always a challenge.
+
+335
+00:14:51,410 --> 00:14:53,030
+All right, let's do this, now.
+
+336
+00:14:53,030 --> 00:14:54,000
+All right, hold my beer.
+
+337
+00:14:54,000 --> 00:14:55,133
+Game on, let's go.
+
+338
+00:14:56,710 --> 00:14:58,910
+He's been saying he wants to make things in the U.S.
+
+339
+00:14:58,910 --> 00:15:01,010
+I'm like, "All right, let's go.
+
+340
+00:15:01,010 --> 00:15:02,637
+"Let's figure it out, we'll do it."
+
+341
+00:15:02,637 --> 00:15:05,400
+- We took the word try and we want out of it,
+
+342
+00:15:05,400 --> 00:15:08,573
+and we just do, like Yoda says,
+
+343
+00:15:10,540 --> 00:15:13,850
+and we were always, it was always this thing
+
+344
+00:15:13,850 --> 00:15:17,340
+where me and Virgil, we're just trying to get a opportunity
+
+345
+00:15:17,340 --> 00:15:19,723
+to be able to have an opinion on clothes.
+
+346
+00:15:21,150 --> 00:15:24,710
+You know, as black designers out of America, you can't have
+
+347
+00:15:24,710 --> 00:15:26,720
+an opinion, you can only be the consumer.
+
+348
+00:15:26,720 --> 00:15:29,010
+You can only be a demographic.
+
+349
+00:15:29,010 --> 00:15:30,737
+And that a boardroom says,
+
+350
+00:15:30,737 --> 00:15:34,910
+"Okay, this is the black demographic, this is..."
+
+351
+00:15:34,910 --> 00:15:39,910
+You're not gonna go a whole interview with me,
+
+352
+00:15:40,950 --> 00:15:42,030
+without me sayin' it.
+
+353
+00:15:42,030 --> 00:15:45,173
+This is who you supposed to vote on.
+
+354
+00:15:46,130 --> 00:15:48,670
+This is what you're supposed to buy.
+
+355
+00:15:48,670 --> 00:15:50,970
+This is your Popeyes' chicken sandwich you're supposed
+
+356
+00:15:50,970 --> 00:15:51,973
+to eat on.
+
+357
+00:15:53,850 --> 00:15:56,990
+But it'd be exactly that.
+
+358
+00:15:56,990 --> 00:15:59,470
+I have seen the boardroom and back,
+
+359
+00:15:59,470 --> 00:16:03,040
+and it's completely a concept of a demographic.
+
+360
+00:16:03,040 --> 00:16:05,130
+So, for me and Virgil,
+
+361
+00:16:05,130 --> 00:16:09,030
+where, yeah, me, where he's African.
+
+362
+00:16:09,030 --> 00:16:11,110
+Africans have a different mentality.
+
+363
+00:16:11,110 --> 00:16:13,620
+They don't see racism, so they don't allow it
+
+364
+00:16:13,620 --> 00:16:15,630
+to affect their moves.
+
+365
+00:16:15,630 --> 00:16:18,400
+So, Virgil has never been in a position
+
+366
+00:16:18,400 --> 00:16:23,400
+where his color affected his decision to proceed
+
+367
+00:16:23,410 --> 00:16:26,480
+in the way he interacted with people.
+
+368
+00:16:26,480 --> 00:16:30,484
+Now me, a little bit, but it's,
+
+369
+00:16:30,484 --> 00:16:31,570
+(laughter)
+
+370
+00:16:31,570 --> 00:16:33,010
+But more of, it's a fire.
+
+371
+00:16:33,010 --> 00:16:36,540
+Okay, it's on me, but my mom got arrested
+
+372
+00:16:36,540 --> 00:16:38,850
+at the sit-ins at age six.
+
+373
+00:16:38,850 --> 00:16:40,593
+My dad was a Black Panther.
+
+374
+00:16:41,800 --> 00:16:44,690
+We were brought up in the church,
+
+375
+00:16:44,690 --> 00:16:45,913
+so we'd see it,
+
+376
+00:16:47,640 --> 00:16:48,850
+and see past it.
+
+377
+00:16:48,850 --> 00:16:53,490
+See past this theater that we live in,
+
+378
+00:16:53,490 --> 00:16:56,163
+that social media greatly controls.
+
+379
+00:16:57,203 --> 00:16:58,036
+And it's so funny to me.
+
+380
+00:16:58,036 --> 00:16:59,860
+Oh it's so obvious.
+
+381
+00:16:59,860 --> 00:17:00,930
+Why wouldn't it be there?
+
+382
+00:17:00,930 --> 00:17:03,500
+When I was first doing my first fashion show in Paris.
+
+383
+00:17:03,500 --> 00:17:05,917
+Everyone said, "Well the Olsens started with a t-shirt.
+
+384
+00:17:05,917 --> 00:17:07,940
+"You should start with a t-shirt."
+
+385
+00:17:07,940 --> 00:17:08,837
+I don't want to do a t-shirt.
+
+386
+00:17:08,837 --> 00:17:11,130
+I want to do a fashion show in Paris.
+
+387
+00:17:11,130 --> 00:17:12,680
+As a matter of fact, I don't want to,
+
+388
+00:17:12,680 --> 00:17:14,963
+I'm gonna do it, and it's done, and it's so.
+
+389
+00:17:17,309 --> 00:17:18,840
+The life is, I don't know if you saw
+
+390
+00:17:18,840 --> 00:17:23,297
+that Venus Williams interview where this guy was asking,
+
+391
+00:17:23,297 --> 00:17:24,850
+"How do you feel about this match?"
+
+392
+00:17:24,850 --> 00:17:26,490
+Does anybody know the interview that I'm talkin' about?
+
+393
+00:17:26,490 --> 00:17:27,593
+This YouTube clip.
+
+394
+00:17:28,860 --> 00:17:30,110
+And she says, "Oh, I'm gonna win."
+
+395
+00:17:30,110 --> 00:17:31,797
+And they say, the guy says,
+
+396
+00:17:31,797 --> 00:17:35,320
+"Well, what makes you so confident?"
+
+397
+00:17:35,320 --> 00:17:36,797
+And then the father, her father came in
+
+398
+00:17:36,797 --> 00:17:38,007
+and said, "She's gonna win
+
+399
+00:17:38,007 --> 00:17:40,160
+"cuz she said she was gonna win."
+
+400
+00:17:40,160 --> 00:17:42,487
+Martin Luther King didn't get killed because of
+
+401
+00:17:42,487 --> 00:17:43,360
+"I have a dream."
+
+402
+00:17:43,360 --> 00:17:45,340
+He had something else he was gonna talk about.
+
+403
+00:17:45,340 --> 00:17:47,000
+Black empowerment.
+
+404
+00:17:47,000 --> 00:17:49,770
+Economic empowerment.
+
+405
+00:17:49,770 --> 00:17:51,300
+So, you know, when I did the Forbes
+
+406
+00:17:51,300 --> 00:17:53,860
+and I showed him an 890 million-dollar receipt,
+
+407
+00:17:53,860 --> 00:17:56,230
+and they still didn't say billionaire.
+
+408
+00:17:56,230 --> 00:17:59,630
+They don't want us to know
+
+409
+00:18:00,530 --> 00:18:03,473
+that we can buy land.
+
+410
+00:18:05,300 --> 00:18:09,420
+They don't want us to have the 100% ownership
+
+411
+00:18:09,420 --> 00:18:13,750
+that I have 100% ownership at Yeezy.
+
+412
+00:18:13,750 --> 00:18:16,290
+And the reason I say these things out loud
+
+413
+00:18:16,290 --> 00:18:19,315
+in this way, is so I won't be killed.
+
+414
+00:18:19,315 --> 00:18:21,573
+I said it out loud already.
+
+415
+00:18:22,670 --> 00:18:27,670
+Last year, I was killed by the press
+
+416
+00:18:28,250 --> 00:18:29,770
+for having a difference...
+
+417
+00:18:31,210 --> 00:18:33,300
+No, not having a difference in opinion,
+
+418
+00:18:33,300 --> 00:18:35,503
+for having an opinion.
+
+419
+00:18:36,900 --> 00:18:39,100
+I had a offer.
+
+420
+00:18:39,100 --> 00:18:43,150
+Yeezy season one was the most viewed fashion show
+
+421
+00:18:43,150 --> 00:18:43,983
+of all time.
+
+422
+00:18:43,983 --> 00:18:45,640
+Four times the Channel show.
+
+423
+00:18:45,640 --> 00:18:48,747
+So Bernard Arnault sat with me and said,
+
+424
+00:18:48,747 --> 00:18:52,262
+"We're gonna back your line, Kanye West."
+
+425
+00:18:52,262 --> 00:18:53,900
+Anybody's who ever been to Paris, have you been
+
+426
+00:18:53,900 --> 00:18:55,800
+to this restaurant called Ferdi?
+
+427
+00:18:55,800 --> 00:18:58,650
+It's like hamburgers, but you gotta go there when you go.
+
+428
+00:18:59,650 --> 00:19:01,490
+So, I got this deal with Louis Vuitton,
+
+429
+00:19:01,490 --> 00:19:03,220
+and I'm in the back of Ferdi about
+
+430
+00:19:03,220 --> 00:19:06,930
+to do the Kanye West line, and my designers were gonna be,
+
+431
+00:19:06,930 --> 00:19:08,010
+and they're sitting next to me.
+
+432
+00:19:08,010 --> 00:19:10,880
+Stefano Pilati and Haider Ackermann.
+
+433
+00:19:10,880 --> 00:19:13,160
+They were gonna be the head designers.
+
+434
+00:19:13,160 --> 00:19:15,770
+You might know Stefano from YSL.
+
+435
+00:19:15,770 --> 00:19:18,240
+Think about that, it's me, Stefano, and Haider.
+
+436
+00:19:18,240 --> 00:19:21,950
+That's gonna be chic, on chic, on chic, on chic, on chic.
+
+437
+00:19:21,950 --> 00:19:24,580
+It's gonna be the highest level taste, sensibility.
+
+438
+00:19:24,580 --> 00:19:26,430
+Stitch and double stitch, top stitch,
+
+439
+00:19:26,430 --> 00:19:31,103
+and three months later, so I had to go to Adidas and say,
+
+440
+00:19:32,027 --> 00:19:34,127
+"Hey, we gotta indemnify the apparel
+
+441
+00:19:34,127 --> 00:19:36,840
+"because all the A majors gonna pick it up."
+
+442
+00:19:36,840 --> 00:19:39,901
+So three months later, Alexander calls me.
+
+443
+00:19:39,901 --> 00:19:41,900
+I'm still friends with in our SSENSES.
+
+444
+00:19:41,900 --> 00:19:43,750
+At the board they pulled on the deal.
+
+445
+00:19:45,100 --> 00:19:47,420
+And this is like, I'm already thinking no way
+
+446
+00:19:47,420 --> 00:19:49,630
+Nicolas Ghesquière is gonna take a picture with me.
+
+447
+00:19:49,630 --> 00:19:51,990
+There's no way, 'cause you know it's like, the leech-ism
+
+448
+00:19:51,990 --> 00:19:54,610
+in fashion, and that would've...
+
+449
+00:19:54,610 --> 00:19:57,747
+Before Tim Bloom represented the famous sculpture,
+
+450
+00:19:57,747 --> 00:20:01,080
+before I had a PhD at the Art Institute of Chicago,
+
+451
+00:20:01,080 --> 00:20:03,470
+it's like Elvin Maich represented art
+
+452
+00:20:03,470 --> 00:20:06,360
+and fashion at the same time, so for a guy...
+
+453
+00:20:06,360 --> 00:20:10,280
+Straight, black, rapper, entertainer, American.
+
+454
+00:20:10,280 --> 00:20:12,250
+All these things are, you can't tell me
+
+455
+00:20:12,250 --> 00:20:15,490
+what t-shirt to wear, five years ago.
+
+456
+00:20:15,490 --> 00:20:17,560
+So for that to have happened,
+
+457
+00:20:17,560 --> 00:20:19,590
+that would have just broken, even the world wasn't ready
+
+458
+00:20:19,590 --> 00:20:20,423
+for that.
+
+459
+00:20:20,423 --> 00:20:21,340
+I'm just sittin' there like, "There's no way."
+
+460
+00:20:21,340 --> 00:20:23,640
+And of course there was no way.
+
+461
+00:20:23,640 --> 00:20:25,340
+The first Adidas collection came out
+
+462
+00:20:25,340 --> 00:20:27,340
+and there were line ups around the store.
+
+463
+00:20:27,340 --> 00:20:30,880
+Then the second collection that we did, no line ups.
+
+464
+00:20:30,880 --> 00:20:33,660
+No store, no backer.
+
+465
+00:20:33,660 --> 00:20:36,017
+I told Adidas that Elvin Maich, I said,
+
+466
+00:20:36,017 --> 00:20:37,697
+"Hey, Adidas, I'm gonna marry Gisele.
+
+467
+00:20:37,697 --> 00:20:39,790
+"I know we just went on prom."
+
+468
+00:20:39,790 --> 00:20:41,700
+I came back, "Hey Gisele dumped me."
+
+469
+00:20:41,700 --> 00:20:46,033
+Uh, would you, you still wanna, you still wanna, so,
+
+470
+00:20:47,500 --> 00:20:51,393
+So, the second collection, there's no Yeezy.
+
+471
+00:20:54,140 --> 00:20:57,310
+The third collection, now, I'm investing.
+
+472
+00:20:57,310 --> 00:20:58,660
+I can't put an atelier together.
+
+473
+00:20:58,660 --> 00:21:00,770
+You can't imagine how hard it is
+
+474
+00:21:00,770 --> 00:21:03,420
+to get four amazing pattern cutters in the same room.
+
+475
+00:21:04,721 --> 00:21:07,630
+All right, so, I'm trying to put this atelier together,
+
+476
+00:21:07,630 --> 00:21:11,907
+and I'm Tweeting, and Mark Zuckerberg,
+
+477
+00:21:11,907 --> 00:21:14,837
+"Hey, I'm in debt. I've just triple titled.
+
+478
+00:21:14,837 --> 00:21:16,757
+"Adidas is up, we're doing this,
+
+479
+00:21:16,757 --> 00:21:18,417
+"Mark, I heard you're looking for aliens.
+
+480
+00:21:18,417 --> 00:21:20,997
+"It's an alien, right here, come on me."
+
+481
+00:21:22,310 --> 00:21:25,280
+Season four, we start 45 minutes late.
+
+482
+00:21:25,280 --> 00:21:26,740
+Now season three, killed 'em.
+
+483
+00:21:26,740 --> 00:21:29,330
+MSG, a thousand people. We dropped out
+
+484
+00:21:29,330 --> 00:21:31,180
+with young thugs on the stage.
+
+485
+00:21:31,180 --> 00:21:34,110
+Travis Scott is jumping, Virgil's standing right there.
+
+486
+00:21:34,110 --> 00:21:38,880
+Everybody, 50 Cent, and Jay-Z, everybody's in the audience.
+
+487
+00:21:38,880 --> 00:21:41,630
+Season four, we start 45 minutes late.
+
+488
+00:21:41,630 --> 00:21:44,300
+Oh, it got to be Lebron James territory right there.
+
+489
+00:21:44,300 --> 00:21:47,090
+Like when Lebron said, "I'm goin' to the Heat."
+
+490
+00:21:47,090 --> 00:21:50,717
+They were like, "Boy, you was late."
+
+491
+00:21:52,980 --> 00:21:55,323
+Man, a week later, my wife got robbed.
+
+492
+00:21:56,610 --> 00:21:58,760
+Then a week later, I was tired
+
+493
+00:21:59,810 --> 00:22:01,433
+and ended up in the hospital.
+
+494
+00:22:02,520 --> 00:22:04,620
+Then a year after that Bernard Arnault could've picked
+
+495
+00:22:04,620 --> 00:22:07,393
+anybody he wanted to be the head of Louis Vuitton.
+
+496
+00:22:08,370 --> 00:22:09,740
+And who was it?
+
+497
+00:22:09,740 --> 00:22:14,060
+And as I got on that flight, I knew I had to go,
+
+498
+00:22:14,060 --> 00:22:15,700
+because if I didn't go
+
+499
+00:22:15,700 --> 00:22:18,950
+and give Virgil that hug, who was I, then?
+
+500
+00:22:18,950 --> 00:22:22,240
+No one knew that the deal had been pulled,
+
+501
+00:22:22,240 --> 00:22:24,290
+three, four years later, no one knew that
+
+502
+00:22:24,290 --> 00:22:27,550
+that was the beginning of me going to the hospital.
+
+503
+00:22:27,550 --> 00:22:31,120
+No one knew how this game is.
+
+504
+00:22:31,120 --> 00:22:32,440
+So now that I'd made it
+
+505
+00:22:32,440 --> 00:22:36,920
+to Vietnam, I'm gonna tell you exactly,
+
+506
+00:22:36,920 --> 00:22:39,030
+when the Forbes wants to call me a centimillionaire,
+
+507
+00:22:39,030 --> 00:22:41,820
+if people say it's crass to call yourself a billionaire,
+
+508
+00:22:41,820 --> 00:22:45,280
+I might legally change my name to Christian Genius
+
+509
+00:22:45,280 --> 00:22:48,093
+Billionaire Kanye West for a year,
+
+510
+00:22:48,093 --> 00:22:52,570
+until y'all understand exactly what it is.
+
+511
+00:22:52,570 --> 00:22:55,328
+- That's gonna be so hard to type, like in an article.
+
+512
+00:22:55,328 --> 00:22:57,210
+The headlines are gonna get insane.
+
+513
+00:22:57,210 --> 00:22:58,682
+It's gonna break Twitter.
+
+514
+00:22:58,682 --> 00:23:00,043
+Please don't.
+
+515
+00:23:01,119 --> 00:23:03,220
+- It'll be on the license plate.
+
+516
+00:23:03,220 --> 00:23:05,220
+(laughter)
+
+517
+00:23:05,220 --> 00:23:09,823
+There's one in three African Americans in prison, now.
+
+518
+00:23:12,180 --> 00:23:14,810
+There's a gentleman in jail in Houston, Rodney Reed,
+
+519
+00:23:14,810 --> 00:23:18,670
+that all the evidence says that this guy didn't do it
+
+520
+00:23:18,670 --> 00:23:21,520
+and he's supposed to be executed in 30 days.
+
+521
+00:23:21,520 --> 00:23:25,440
+And all the celebrity black will tweet about it,
+
+522
+00:23:25,440 --> 00:23:28,880
+but the question is, will they stop playing basketball
+
+523
+00:23:28,880 --> 00:23:33,880
+for a week, to make sure that this innocent man gets out?
+
+524
+00:23:35,820 --> 00:23:39,293
+For black people, I just say don't just be a demographic.
+
+525
+00:23:40,530 --> 00:23:41,640
+Own you power.
+
+526
+00:23:41,640 --> 00:23:44,050
+Your power is not just to vote Democrat for the rest
+
+527
+00:23:44,050 --> 00:23:44,883
+of our lives.
+
+528
+00:23:45,810 --> 00:23:47,150
+That's not the power, just voting
+
+529
+00:23:47,150 --> 00:23:48,461
+on who they told us to vote on.
+
+530
+00:23:48,461 --> 00:23:49,900
+That's not where the power is.
+
+531
+00:23:49,900 --> 00:23:52,640
+The power is, when I talked to my lawyer,
+
+532
+00:23:52,640 --> 00:23:54,370
+and Adidas was treating me mean,
+
+533
+00:23:54,370 --> 00:23:58,190
+and I had seven points of termination,
+
+534
+00:23:58,190 --> 00:24:02,020
+I put on my trench coat and said, "We movin' these factories
+
+535
+00:24:02,020 --> 00:24:02,887
+to America."
+
+536
+00:24:05,630 --> 00:24:08,440
+And that's how it's gonna be, and it's lovely.
+
+537
+00:24:08,440 --> 00:24:12,730
+Our relationship is beautiful now.
+
+538
+00:24:12,730 --> 00:24:15,170
+- Yeezy made it at the 350, for instance.
+
+539
+00:24:15,170 --> 00:24:17,170
+Is that something you're gonna be able to bring here?
+
+540
+00:24:17,170 --> 00:24:20,020
+Is it, because it's designed probably
+
+541
+00:24:20,020 --> 00:24:22,720
+with different tooling and things like that, an issue?
+
+542
+00:24:27,220 --> 00:24:28,600
+- Or we'll change the design.
+
+543
+00:24:28,600 --> 00:24:31,050
+We'll change it to something that has to be here.
+
+544
+00:24:32,670 --> 00:24:36,120
+When I run for president in 2024, we gonna definitely...
+
+545
+00:24:36,120 --> 00:24:36,953
+(laughter)
+
+546
+00:24:36,953 --> 00:24:38,026
+Now what you all laughin' at?
+
+547
+00:24:38,026 --> 00:24:40,276
+(laughter)
+
+548
+00:24:41,480 --> 00:24:44,730
+When I run for president in 2024, we would've created
+
+549
+00:24:44,730 --> 00:24:47,330
+so many jobs, that I'm not gonna run I'm gonna walk.
+
+550
+00:24:50,130 --> 00:24:52,890
+What I'm saying is, when you all read the headlines,
+
+551
+00:24:52,890 --> 00:24:55,130
+Kanye's crazy, this and that, this that.
+
+552
+00:24:55,130 --> 00:25:00,010
+It's like, one in three African Americans are in jail,
+
+553
+00:25:00,010 --> 00:25:02,450
+and all the celebrities are in jail also
+
+554
+00:25:02,450 --> 00:25:04,192
+'cause they can't say nothin'.
+
+555
+00:25:04,192 --> 00:25:05,253
+They got no opinion.
+
+556
+00:25:05,253 --> 00:25:06,970
+They're so scared.
+
+557
+00:25:06,970 --> 00:25:08,540
+Even after this I'm gonna get in the car
+
+558
+00:25:08,540 --> 00:25:11,213
+and be like (panting), feeling like how I felt in telling
+
+559
+00:25:11,213 --> 00:25:12,735
+that after I said you were a person
+
+560
+00:25:12,735 --> 00:25:14,410
+who cared about black, you know what I'm sayin'?
+
+561
+00:25:14,410 --> 00:25:15,660
+I'm definitely gonna be ridin'.
+
+562
+00:25:15,660 --> 00:25:17,327
+My wife sits there and playin' like,
+
+563
+00:25:17,327 --> 00:25:19,303
+"You know, K, maybe you shouldn't a (laughing).
+
+564
+00:25:21,460 --> 00:25:24,120
+- Let me pause you, because I do wanna finish the discussion
+
+565
+00:25:24,120 --> 00:25:25,134
+on design.
+
+566
+00:25:25,134 --> 00:25:25,967
+- Okay.
+
+567
+00:25:27,265 --> 00:25:28,690
+- And, you know, one project
+
+568
+00:25:28,690 --> 00:25:29,890
+that's gotten a lot of media coverage,
+
+569
+00:25:29,890 --> 00:25:34,070
+but I haven't really heard talked about much is building
+
+570
+00:25:34,070 --> 00:25:36,500
+the housing that was torn down, those, what's been called
+
+571
+00:25:36,500 --> 00:25:38,590
+Star Wars housing, Star Wars-inspired housing,
+
+572
+00:25:38,590 --> 00:25:41,070
+I assume, is not actually inspired by George Lucas,
+
+573
+00:25:41,070 --> 00:25:41,903
+but maybe.
+
+574
+00:25:43,400 --> 00:25:44,550
+Tell me where that was born from.
+
+575
+00:25:44,550 --> 00:25:46,030
+Tell me what you wanna do with it.
+
+576
+00:25:46,030 --> 00:25:47,510
+Is that going to Cody?
+
+577
+00:25:47,510 --> 00:25:48,920
+Is that part of Yeezy?
+
+578
+00:25:48,920 --> 00:25:51,470
+How do we think about Yeezy and where it's going?
+
+579
+00:25:51,470 --> 00:25:53,980
+because I hear things of sustainability.
+
+580
+00:25:53,980 --> 00:25:58,453
+I've heard you say you wanna hire a workforce out of prison.
+
+581
+00:25:59,580 --> 00:26:02,240
+Obviously, you have a strong direction for it.
+
+582
+00:26:02,240 --> 00:26:06,773
+- The building restrictions are way lax, in Cody.
+
+583
+00:26:08,320 --> 00:26:10,430
+That's one of the reasons we got the land, there,
+
+584
+00:26:10,430 --> 00:26:12,220
+so we can think.
+
+585
+00:26:12,220 --> 00:26:14,870
+You know, Dayton, Ohio, the Wright Brothers,
+
+586
+00:26:14,870 --> 00:26:16,390
+they needed a chance to think
+
+587
+00:26:16,390 --> 00:26:18,940
+or we wouldn't have flight today.
+
+588
+00:26:18,940 --> 00:26:23,320
+It's like, if the world only knew the capabilities
+
+589
+00:26:23,320 --> 00:26:27,980
+of what we have, the press would get out of the way
+
+590
+00:26:27,980 --> 00:26:29,550
+and stop downing.
+
+591
+00:26:29,550 --> 00:26:32,030
+I know it happens throughout history, but it's not...
+
+592
+00:26:32,030 --> 00:26:35,160
+'Cause you thought you were gonna go to design,
+
+593
+00:26:35,160 --> 00:26:39,290
+but the domes relate to this too, so,
+
+594
+00:26:39,290 --> 00:26:40,270
+- [Interviewer] The domes are obviously
+
+595
+00:26:40,270 --> 00:26:42,060
+about more than just design.
+
+596
+00:26:42,060 --> 00:26:44,280
+- So I have 300 acres in Callabas.
+
+597
+00:26:44,280 --> 00:26:48,600
+312 acres 'cause we got our little golden
+
+598
+00:26:49,490 --> 00:26:51,080
+situation inside hidden hills,
+
+599
+00:26:51,080 --> 00:26:53,840
+and we have 300 acres,
+
+600
+00:26:53,840 --> 00:26:57,010
+and of the domes, so we're testing the sides of the domes,
+
+601
+00:26:57,010 --> 00:27:01,290
+and it's, we do 50 feet, 35 feet high, or something.
+
+602
+00:27:01,290 --> 00:27:03,440
+And one of the domes were 10 feet too high,
+
+603
+00:27:04,390 --> 00:27:06,060
+and it was fine, we were just testing it.
+
+604
+00:27:06,060 --> 00:27:07,490
+We were gonna take it down anyway.
+
+605
+00:27:07,490 --> 00:27:09,490
+They came and said, "You gotta take it down."
+
+606
+00:27:09,490 --> 00:27:11,300
+Okay, that's fine,
+
+607
+00:27:11,300 --> 00:27:14,650
+but then they went to the media to tell them
+
+608
+00:27:14,650 --> 00:27:16,683
+that they told me to take it down.
+
+609
+00:27:17,790 --> 00:27:21,313
+Your dome is 10 feet too high, boy.
+
+610
+00:27:22,910 --> 00:27:25,853
+Your dome is 10 feet too high.
+
+611
+00:27:26,920 --> 00:27:31,873
+10 feet, on my own 300 acre property?
+
+612
+00:27:33,070 --> 00:27:36,333
+And we could've handled it like this,
+
+613
+00:27:37,240 --> 00:27:40,330
+but you wanted to go to the press before
+
+614
+00:27:40,330 --> 00:27:42,020
+to let everyone know
+
+615
+00:27:42,020 --> 00:27:44,593
+that you were tearin' down Kayne's domes.
+
+616
+00:27:46,100 --> 00:27:47,730
+- [Interviewer] They were worried the planes were gonna hit
+
+617
+00:27:47,730 --> 00:27:49,390
+at that height, I think, 10 feet.
+
+618
+00:27:49,390 --> 00:27:50,223
+- Yeah.
+
+619
+00:27:51,117 --> 00:27:52,500
+- [Interviewer] But, is the idea of those domes.
+
+620
+00:27:52,500 --> 00:27:54,460
+What is the larger idea there?
+
+621
+00:27:54,460 --> 00:27:57,110
+What do you hope to iterate those into,
+
+622
+00:27:57,110 --> 00:27:59,800
+because I know iteration is a big part of what you do?
+
+623
+00:27:59,800 --> 00:28:01,663
+- We have absolutely no hopes.
+
+624
+00:28:02,700 --> 00:28:03,563
+- I only do.
+
+625
+00:28:05,496 --> 00:28:08,200
+- [Interviewer] What are you going to do, then?
+
+626
+00:28:08,200 --> 00:28:12,240
+- Create the t-shirt, the t-shirt of homes.
+
+627
+00:28:12,240 --> 00:28:16,370
+Homes are a big, big representation of classism
+
+628
+00:28:16,370 --> 00:28:18,883
+and separation and protectionism.
+
+629
+00:28:19,740 --> 00:28:24,080
+The idea that somehow, this one little fence
+
+630
+00:28:24,080 --> 00:28:25,510
+can make the difference.
+
+631
+00:28:25,510 --> 00:28:28,220
+This gated fence can make the difference and say
+
+632
+00:28:29,080 --> 00:28:31,050
+this person hasn't made it in life.
+
+633
+00:28:31,050 --> 00:28:33,050
+I made it in life, so I need
+
+634
+00:28:33,050 --> 00:28:36,330
+to be behind this gate, right here.
+
+635
+00:28:36,330 --> 00:28:39,890
+So, to create something where, the actual information,
+
+636
+00:28:39,890 --> 00:28:43,720
+people used to get killed for proportions.
+
+637
+00:28:43,720 --> 00:28:45,550
+You know, proportions were sacred.
+
+638
+00:28:45,550 --> 00:28:47,150
+Now they're Gucci logo,
+
+639
+00:28:47,150 --> 00:28:50,150
+because the proportions give us the space
+
+640
+00:28:50,150 --> 00:28:52,200
+to maximize who we are.
+
+641
+00:28:52,200 --> 00:28:54,030
+We are God's iPhone.
+
+642
+00:28:54,030 --> 00:28:55,420
+We are God's machines.
+
+643
+00:28:55,420 --> 00:29:00,420
+He created us, so if the iPhone had it's choice,
+
+644
+00:29:01,070 --> 00:29:03,270
+It'd probably say I only wanna just lay
+
+645
+00:29:03,270 --> 00:29:06,760
+on my back, charge up all day long.
+
+646
+00:29:06,760 --> 00:29:08,650
+I don't want any of this extra...
+
+647
+00:29:08,650 --> 00:29:10,210
+I'm not gonna name any other brands that are
+
+648
+00:29:10,210 --> 00:29:12,580
+in iPhones, the Apple Store.
+
+649
+00:29:12,580 --> 00:29:13,820
+I'm not making this drop.
+
+650
+00:29:13,820 --> 00:29:17,430
+So, hey, that's the same thing for our spaces.
+
+651
+00:29:17,430 --> 00:29:20,000
+Dining rooms were created in the 1800s.
+
+652
+00:29:20,000 --> 00:29:20,833
+They're not needed.
+
+653
+00:29:20,833 --> 00:29:21,720
+What is a dining room?
+
+654
+00:29:21,720 --> 00:29:23,730
+Why you gotta have a dining room in your house?
+
+655
+00:29:23,730 --> 00:29:25,600
+So I'm very primitive in the way I think,
+
+656
+00:29:25,600 --> 00:29:27,430
+very singular idea.
+
+657
+00:29:27,430 --> 00:29:31,610
+3000 years ago, Rome was our original Silicone Valley.
+
+658
+00:29:31,610 --> 00:29:34,150
+A lot of the information is just,
+
+659
+00:29:34,150 --> 00:29:37,110
+even electricity, you know, Commonwealth Edison.
+
+660
+00:29:37,110 --> 00:29:39,400
+They did, it's the same thing you guys see happening
+
+661
+00:29:39,400 --> 00:29:41,410
+to me was happening to Tesla.
+
+662
+00:29:41,410 --> 00:29:44,720
+They were electrocuting elephants in the streets
+
+663
+00:29:44,720 --> 00:29:45,920
+with Tesla cords,
+
+664
+00:29:45,920 --> 00:29:48,490
+so that Tesla would have a bad reputation.
+
+665
+00:29:48,490 --> 00:29:50,210
+Anybody in this room every heard someone talkin' bad
+
+666
+00:29:50,210 --> 00:29:51,890
+about Kanye before?
+
+667
+00:29:51,890 --> 00:29:53,830
+Now, when you sit here, it's like, man, you know, maybe
+
+668
+00:29:53,830 --> 00:29:55,470
+this man should keep going.
+
+669
+00:29:55,470 --> 00:29:57,420
+Maybe we don't understand everything he's doing,
+
+670
+00:29:57,420 --> 00:29:58,608
+everything he's saying.
+
+671
+00:29:58,608 --> 00:30:00,140
+Maybe we should just stop giving him a hard time
+
+672
+00:30:00,140 --> 00:30:04,690
+and give him a opportunity to change something.
+
+673
+00:30:04,690 --> 00:30:09,690
+Electricity is a very trendy form of power.
+
+674
+00:30:09,880 --> 00:30:12,540
+The real power is simply the elements.
+
+675
+00:30:12,540 --> 00:30:16,330
+Earth, wind, fire, water,
+
+676
+00:30:16,330 --> 00:30:18,400
+and through civil engineering,
+
+677
+00:30:18,400 --> 00:30:22,520
+we can engineer a maximum existence for ourselves
+
+678
+00:30:22,520 --> 00:30:25,350
+as human beings, as God's machines.
+
+679
+00:30:25,350 --> 00:30:27,820
+But we're so in the box of this,
+
+680
+00:30:27,820 --> 00:30:31,740
+do you realize, this right here, is like playing with dirt.
+
+681
+00:30:31,740 --> 00:30:33,350
+This is the real thing, right here.
+
+682
+00:30:33,350 --> 00:30:35,800
+We have telepathic abilities.
+
+683
+00:30:35,800 --> 00:30:37,200
+That's a headline they could use to try
+
+684
+00:30:37,200 --> 00:30:38,800
+to down this whole thing, right?
+
+685
+00:30:38,800 --> 00:30:39,984
+But we--
+
+686
+00:30:39,984 --> 00:30:41,184
+(interviewer laughs)
+
+687
+00:30:41,184 --> 00:30:42,730
+But, don't we feel each other?
+
+688
+00:30:42,730 --> 00:30:44,350
+That is a telepathic ability
+
+689
+00:30:44,350 --> 00:30:48,950
+that the green and black matrix numbers cannot control.
+
+690
+00:30:48,950 --> 00:30:51,790
+Do not be afraid of numbers.
+
+691
+00:30:51,790 --> 00:30:54,640
+How many people are afraid of what their,
+
+692
+00:30:54,640 --> 00:30:56,060
+how much you're gonna get paid this week,
+
+693
+00:30:56,060 --> 00:30:58,070
+and can you cover Christmas?
+
+694
+00:30:58,070 --> 00:30:58,930
+Can you cover rent?
+
+695
+00:30:58,930 --> 00:31:01,300
+Do not let the numbers control you.
+
+696
+00:31:01,300 --> 00:31:03,863
+That is 50 people trying to control the billion.
+
+697
+00:31:04,780 --> 00:31:09,320
+Do not let media and numbers control you.
+
+698
+00:31:09,320 --> 00:31:11,480
+Jesus Christ has already won the victory.
+
+699
+00:31:11,480 --> 00:31:13,840
+I'm gonna implement my opinion in that,
+
+700
+00:31:13,840 --> 00:31:18,640
+and do not, that is all control.
+
+701
+00:31:18,640 --> 00:31:23,040
+Media control, propaganda, setting us up
+
+702
+00:31:23,040 --> 00:31:25,680
+to be controlled by the roadie, radio.
+
+703
+00:31:25,680 --> 00:31:27,280
+I mean, these people study.
+
+704
+00:31:27,280 --> 00:31:29,430
+I'm studying the colors in this.
+
+705
+00:31:29,430 --> 00:31:32,600
+People are studying Maslow's hierarchy of needs.
+
+706
+00:31:32,600 --> 00:31:34,760
+The human needs, what we're needing,
+
+707
+00:31:34,760 --> 00:31:39,420
+and feeding it, especially to women on Instagram.
+
+708
+00:31:39,420 --> 00:31:41,580
+I'm not saying social media is all bad.
+
+709
+00:31:41,580 --> 00:31:46,460
+Angry Birds was a very popular game amongst women.
+
+710
+00:31:46,460 --> 00:31:47,810
+It had an action like this.
+
+711
+00:31:50,150 --> 00:31:51,990
+Scientists understood
+
+712
+00:31:51,990 --> 00:31:56,290
+that it released a dopamine, specifically in females.
+
+713
+00:31:56,290 --> 00:31:58,330
+What else does this?
+
+714
+00:31:58,330 --> 00:32:00,020
+And what does this?
+
+715
+00:32:00,020 --> 00:32:01,960
+And there's no amount of flowers that
+
+716
+00:32:01,960 --> 00:32:05,230
+that husband that loves you so much,
+
+717
+00:32:05,230 --> 00:32:08,160
+that can match up to the amount of flowers
+
+718
+00:32:08,160 --> 00:32:10,110
+that are delivered all like that.
+
+719
+00:32:10,110 --> 00:32:10,943
+I like that.
+
+720
+00:32:10,943 --> 00:32:12,110
+You got this many likes.
+
+721
+00:32:12,110 --> 00:32:13,680
+You got this many likes.
+
+722
+00:32:13,680 --> 00:32:15,600
+And also another thing we said, having
+
+723
+00:32:15,600 --> 00:32:18,160
+to show your amount of followers.
+
+724
+00:32:18,160 --> 00:32:19,680
+You could choose.
+
+725
+00:32:19,680 --> 00:32:22,670
+I choose to tell you I am a billionaire.
+
+726
+00:32:22,670 --> 00:32:25,170
+There's some billionaires that don't wanna do that,
+
+727
+00:32:25,170 --> 00:32:28,670
+so you can have, you should be, you have
+
+728
+00:32:28,670 --> 00:32:29,880
+to be able to choose it.
+
+729
+00:32:29,880 --> 00:32:31,510
+They have to put--
+
+730
+00:32:31,510 --> 00:32:32,343
+- [Interviewer] It's changing.
+
+731
+00:32:32,343 --> 00:32:34,350
+Instagram's testing it.
+
+732
+00:32:34,350 --> 00:32:35,553
+You see other platforms are testing it.
+
+733
+00:32:35,553 --> 00:32:37,710
+I think it's great you've been outspoken about it,
+
+734
+00:32:37,710 --> 00:32:39,990
+because it is ridiculous that a teenager has
+
+735
+00:32:39,990 --> 00:32:41,360
+to worry about how many people follow them
+
+736
+00:32:41,360 --> 00:32:42,510
+on Twitter, especially.
+
+737
+00:32:43,760 --> 00:32:46,460
+I guess, just to bring this back to Yeezy
+
+738
+00:32:46,460 --> 00:32:49,610
+for probably a closing thought, is--
+
+739
+00:32:49,610 --> 00:32:51,050
+- This is what Yeezy is.
+
+740
+00:32:51,050 --> 00:32:51,883
+You're talking.
+
+741
+00:32:51,883 --> 00:32:52,716
+- [Interviewer] I love it.
+
+742
+00:32:52,716 --> 00:32:54,250
+- You're talking to a founder.
+
+743
+00:32:54,250 --> 00:32:56,487
+This is a founder conversation.
+
+744
+00:32:56,487 --> 00:32:59,320
+(audience applauds)
+
+745
+00:32:59,320 --> 00:33:01,350
+- [Interviewer] What Yeezy is in product design,
+
+746
+00:33:01,350 --> 00:33:05,090
+in urban planning, in whatever else you wanna tackle?
+
+747
+00:33:05,090 --> 00:33:06,180
+- We don't want to.
+
+748
+00:33:06,180 --> 00:33:08,010
+We will, and we are,
+
+749
+00:33:08,010 --> 00:33:11,193
+but that is the thought that goes into this.
+
+750
+00:33:11,193 --> 00:33:13,920
+It's not, oh, should we do, should we,
+
+751
+00:33:13,920 --> 00:33:16,010
+it's like, picture these domes that I'm talking about.
+
+752
+00:33:16,010 --> 00:33:17,950
+Picture these homes, picture this world
+
+753
+00:33:17,950 --> 00:33:20,660
+that we're talking about with the four elements
+
+754
+00:33:20,660 --> 00:33:25,170
+and understanding that the most healing medication possible
+
+755
+00:33:26,740 --> 00:33:27,643
+is love.
+
+756
+00:33:28,500 --> 00:33:31,800
+The greatest things that humans have is each other.
+
+757
+00:33:31,800 --> 00:33:33,750
+We need to be close to each other,
+
+758
+00:33:33,750 --> 00:33:36,550
+but industry has designed cities
+
+759
+00:33:36,550 --> 00:33:39,900
+where the house has to be a certain amount
+
+760
+00:33:39,900 --> 00:33:41,870
+of distance from the school, and a certain amount
+
+761
+00:33:41,870 --> 00:33:43,150
+of distance from your job,
+
+762
+00:33:43,150 --> 00:33:44,930
+so that you have to get in the car
+
+763
+00:33:44,930 --> 00:33:46,690
+and take public transportation,
+
+764
+00:33:46,690 --> 00:33:47,700
+and the world is set up
+
+765
+00:33:47,700 --> 00:33:50,330
+to make us feel like we want to have less children,
+
+766
+00:33:50,330 --> 00:33:53,930
+when children is the greatest thing and the closest thing
+
+767
+00:33:53,930 --> 00:33:58,930
+to God that we have, so we have to reengineer the cities.
+
+768
+00:33:59,500 --> 00:34:00,560
+When I see New York,
+
+769
+00:34:00,560 --> 00:34:01,980
+there's things that I definitely like about it.
+
+770
+00:34:01,980 --> 00:34:02,870
+I love New York.
+
+771
+00:34:02,870 --> 00:34:05,100
+But then I also picture, "I am Legend."
+
+772
+00:34:05,100 --> 00:34:07,910
+Once people understand the value of fresh air.
+
+773
+00:34:07,910 --> 00:34:10,430
+Look at this, we have real light out there,
+
+774
+00:34:10,430 --> 00:34:13,440
+and real air, but we're using air conditioning
+
+775
+00:34:13,440 --> 00:34:14,930
+and artificial light.
+
+776
+00:34:14,930 --> 00:34:16,370
+It's just retarded, and I'm sorry.
+
+777
+00:34:16,370 --> 00:34:18,243
+I can't say that word, anymore, so it's like,
+
+778
+00:34:18,243 --> 00:34:22,850
+but, you know, and then we'll go into, oh,
+
+779
+00:34:22,850 --> 00:34:24,930
+this thing happened in politics and this thing.
+
+780
+00:34:24,930 --> 00:34:27,570
+The media will shift you in every way you can.
+
+781
+00:34:27,570 --> 00:34:30,710
+I tell, I say, MIT, wake up, the kids at MIT.
+
+782
+00:34:30,710 --> 00:34:33,050
+You can do it, but you're focusing on things
+
+783
+00:34:33,050 --> 00:34:33,883
+that are too small.
+
+784
+00:34:33,883 --> 00:34:35,560
+I just gave you the blueprints.
+
+785
+00:34:35,560 --> 00:34:37,980
+This is why the guy
+
+786
+00:34:37,980 --> 00:34:41,920
+who made, M. Night Shyamalan, made "Glass."
+
+787
+00:34:44,340 --> 00:34:46,720
+To let everyone know that they're superheros.
+
+788
+00:34:46,720 --> 00:34:49,580
+And that was the whole thing at the end of the movie.
+
+789
+00:34:49,580 --> 00:34:53,310
+He had to show all the superheros climbing up the side
+
+790
+00:34:53,310 --> 00:34:54,143
+of the wall.
+
+791
+00:34:54,143 --> 00:34:56,700
+So today, you just saw someone climb up the side
+
+792
+00:34:56,700 --> 00:34:57,533
+of the wall.
+
+793
+00:34:57,533 --> 00:35:00,570
+I went from 53 million dollars in debt, considered
+
+794
+00:35:00,570 --> 00:35:03,330
+to be crazy, discriminated against,
+
+795
+00:35:03,330 --> 00:35:08,330
+and music and fashion in business in apparel,
+
+796
+00:35:08,460 --> 00:35:11,890
+and I'm coming to you today, saying, we have our own farms.
+
+797
+00:35:11,890 --> 00:35:14,620
+Cody's a great place to stay if you're into working
+
+798
+00:35:14,620 --> 00:35:17,830
+with the real, true and living, breathing founder
+
+799
+00:35:17,830 --> 00:35:21,053
+that cares about humanity.
+
+800
+00:35:22,530 --> 00:35:24,117
+- [Interviewer] Kanye West.
+
+801
+00:35:24,117 --> 00:35:25,054
+(audience applauds)
+
+802
+00:35:25,054 --> 00:35:25,928
+Steven Smith.
+
+803
+00:35:25,928 --> 00:35:28,532
+Thank you.
+
+804
+00:35:28,532 --> 00:35:30,199
+- [Kanye] Thank you.
+
+805
+00:35:31,670 --> 00:35:33,343
+- [Interviewer] We're just gonna work our way out and see.
+
+806
+00:35:34,749 --> 00:35:37,450
+- Did you actually have some questions?
+
+807
+00:35:37,450 --> 00:35:39,310
+- [Interviewer] No, that was it, yeah, good.
+
+808
+00:35:39,310 --> 00:35:40,292
+(laughter)
