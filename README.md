@@ -4,7 +4,9 @@ The goal is to collect text data that celebrity said.
 
 ## Data structure
 /Data/twitter contains text files with phrases
+
 /Data/youtube contains:
+
                       /source with audio and subtitles in txt, mp4, wav files downloaded from Youtube;
                               name of each file is id Youtube video
                       /crop with audio chunks in video folders
