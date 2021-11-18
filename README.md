@@ -6,17 +6,18 @@ The goal is to collect and prepare dataset of text sentences that celebrity said
 /Data/twitter contains text files with phrases
 
 /Data/youtube contains:
+```
+/source with audio and subtitles in txt, mp4, wav files downloaded from Youtube;
+        name of each file is id Youtube video;
+/crop with audio chunks in video folders;
+/rttm with diarization results for chunks;
+/dialogues with conversations;
+           in each video folder:
+                              speaker_labels.json: {'speaker_name': 'speaker_label'};
+                              dialog_labels.txt: 'speaker_label' 'text_file_name';
+                              txt folder with text files of conversation
+```
 
-                      /source with audio and subtitles in txt, mp4, wav files downloaded from Youtube;
-                              name of each file is id Youtube video;
-                      /crop with audio chunks in video folders;
-                      /rttm with diarization results for chunks;
-                      /dialogues with conversations;
-                                 in each video folder:
-                                                    speaker_labels.json: {'speaker_name': 'speaker_label'};
-                                                    dialog_labels.txt: 'speaker_label' 'text_file_name';
-                                                    txt folder with text files of conversation
-                                                    
 
 ## Installation
 Install libraries using:
